@@ -1,3 +1,5 @@
+# Spektion
+
 Running the example program from the root directory:
 
 ```shell
